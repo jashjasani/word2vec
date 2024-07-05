@@ -1,0 +1,1 @@
+BAR_FORMAT = "{l_bar}{bar:30}{r_bar}{bar:-10b}"
